@@ -40,6 +40,7 @@ body{
 	position: relative;
 	display: block;
 	margin: auto;
+	margin-top: -20px;
 	width: 400px;
 }
 
